@@ -26,8 +26,3 @@ I'm a Master's student in Computer Science building hands-on experience across c
 
 <a href="https://github.com/Robi97-singh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robi97-singh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<p>Benchmarking pretrained vision models (DINOv2, ConvNeXt, BiomedCLIP) against a supervised ResNet-50 baseline for Cell Painting bioactivity prediction.</p>
-
-<div width="100%" align="center"><a href="https://github.com/Robi97-singh/bioactive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Robi97-singh&repo=bioactive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
